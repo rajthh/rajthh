@@ -1,21 +1,14 @@
-# Hey, I'm Rajthh
+#  Hey, I'm Rajthh
 
-Engineering student  
-Learning, building, and improving every day  
+ Engineering student focused on building real-world projects  
+ Interested in development and problem-solving  
 
-## About Me
-- Currently exploring tech and building projects  
-- Trying to stay consistent (work in progress)  
-- Interested in development + creative content  
+## Tech Stack
+- Languages: C, C++, Java  
+- Web: HTML, CSS, JavaScript  
+- Tools: Git, GitHub  
 
-##  Skills (growing)
-- C / C++ / Java (basic)
-- HTML / CSS / JS (learning)
-
-##  Goals
-- Build solid projects  
-- Improve problem-solving  
-- Become consistent (seriously)
-
----
-“Work in progress.”
+## Focus
+- Building consistent coding habits  
+- Strengthening problem-solving  
+- Creating impactful projects
