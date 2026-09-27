@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm RAJATH H M</h1>
 <h3 align="center">Information Science & Engineering Student @ BMSCE, Software Development</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajthh" alt="rajthh" /></a> </p>
-
 - 🔭 I’m currently working on [pharmaceutical-supply-chain](https://github.com/rajthh/pharmaceutical-supply-chain)
 
 - 🌱 I’m currently learning **C++, MERN Stack, Davinci Resolve,**
