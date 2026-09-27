@@ -1,6 +1,6 @@
 <div align="center">
 
-
+<img width="640" height="495" alt="Image" src="https://github.com/user-attachments/assets/2f1deb2b-56cc-431e-aed9-e3abc6689bda" />
 
 # 👋 Hi, I'm **RAJATH H M**
 
