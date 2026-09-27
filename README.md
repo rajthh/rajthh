@@ -1,12 +1,11 @@
 <div align="center">
-<p align="center">
-  <img width="640" height="495" alt="Image" src="https://github.com/user-attachments/assets/2f1deb2b-56cc-431e-aed9-e3abc6689bda" />
-</p>
 
-<div align="center">
+<img src="https://github.com/user-attachments/assets/eb6ae1d7-1727-46c4-bd47-0c9f6cfcb57e" width="736" alt="Rajath"/>
+
 # 👋 Hi, I'm **RAJATH H M**
 
-### Information Science & Engineering Student @ BMSCE  
+### Information Science & Engineering Student @ BMSCE
+
 **AI/ML • Computer Vision • Software Development**
 
 <p>
@@ -43,10 +42,10 @@ I enjoy taking an idea from **concept → code → working project** and continu
 
 ## 🔭 Currently Working On
 
-- 🚚 **Pharmaceutical Supply Chain**  
+- 🚚 **[Pharmaceutical Supply Chain](https://github.com/rajthh/pharmaceutical-supply-chain)**  
   Building a software solution for pharmaceutical supply-chain management.
 
-- 💊 **Medi-Track**  
+- 💊 **[Medi-Track](https://github.com/rajthh/medi-track)**  
   A medication adherence utility focused on helping users manage their medication routines.
 
 - 🚦 **Traffic Monitoring Using UAVs**  
@@ -65,121 +64,128 @@ Firebase          Git & GitHub
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Languages and Tools
 
 ### Languages
 
 <p align="left">
-<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/></a>
-<a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/></a>
-<a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/></a>
-<a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/></a>
-<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/></a>
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
 </p>
 
 ### AI / Machine Learning
 
 <p align="left">
-<a href="https://pytorch.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45" height="45" alt="PyTorch"/></a>
-<a href="https://opencv.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="45" height="45" alt="OpenCV"/></a>
-<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/></a>
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
+  </a>
+  <a href="https://opencv.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
 </p>
 
 ### Web Development
 
 <p align="left">
-<a href="https://react.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/></a>
-<a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="Node.js"/></a>
-<a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45" alt="Express.js"/></a>
-<a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS"/></a>
-<a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45" height="45" alt="Firebase"/></a>
-<a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB"/></a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
 </p>
 
 ### Tools
 
 <p align="left">
-<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/></a>
-<a href="https://github.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/></a>
-<a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/></a>
-<a href="https://colab.research.google.com/"><img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="45" height="45" alt="Google Colab"/></a>
-<a href="https://vercel.com/"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="45" height="45" alt="Vercel"/></a>
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rajthh&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true" height="180" alt="Rajath's GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajthh&layout=compact&langs_count=8&hide_border=true" height="180" alt="Rajath's Top Languages"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=rajthh&hide_border=true" alt="Rajath's GitHub Contribution Streak"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajthh&hide_border=true&area=true" alt="Rajath's Contribution Graph"/>
-
-</div>
-
----
-
-# ⭐ Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/rajthh/pharmaceutical-supply-chain">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajthh&repo=pharmaceutical-supply-chain&hide_border=true" alt="Pharmaceutical Supply Chain"/>
-</a>
-
-<a href="https://github.com/rajthh/medi-track">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajthh&repo=medi-track&hide_border=true" alt="Medi-Track"/>
-</a>
-
-</div>
-
----
-
-# 📌 More Projects
-
-Check out all my repositories:
-
-<p align="center">
-  <a href="https://github.com/rajthh?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories"/>
+  <a href="https://developer.android.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
+  </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
+  </a>
+  <a href="https://cloud.google.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://kotlinlang.org" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  </a>
+  <a href="https://www.selenium.dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/>
   </a>
 </p>
 
 ---
 
-# 🏆 GitHub Achievements
+## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajthh&show_icons=true&locale=en&layout=compact" alt="Rajthh Top Languages"/>
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=rajthh&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajthh&show_icons=true&locale=en" alt="Rajthh GitHub Stats"/>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=rajthh" alt="Rajthh GitHub Streak"/>
+</p>
 
 ---
 
-# 🤝 Connect With Me
+## 🔗 Connect With Me
 
-<div align="center">
+<p align="left">
+  <a href="https://linkedin.com/in/rajthh" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+  <a href="https://instagram.com/rajthh" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
+  </a>
+</p>
 
-<a href="https://linkedin.com/in/rajthh">
-<img src="https://img.shields.io/badge/LinkedIn-0A
+<p align="center">
+  <a href="https://github.com/rajthh">
+    <img src="https://komarev.com/ghpvc/?username=rajthh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+</p>
