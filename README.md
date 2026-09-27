@@ -28,6 +28,14 @@
 
 I'm an **Information Science & Engineering student at BMS College of Engineering** interested in building practical software and AI-driven solutions.
 
+- 🔭 I’m currently working on pharmaceutical-supply-chain
+- 🌱 I’m currently learning **C++, MERN Stack, Davinci Resolve,**
+- 👯 I’m looking to collaborate on Medi-Track (Medication Adherence Utility)
+- 👨‍💻 All of my projects are available at https://portfolio-sigma-one-lflgnyw3nx.vercel.app/
+- 💬 Ask me about **Full Stack,**
+- 📫 How to reach me **rajatha36@gmail.com**
+- ⚡ Fun fact **Not a Coffee Person (Im from Coorg)**
+  
 My main areas of interest are:
 
 - 🤖 Artificial Intelligence & Machine Learning
