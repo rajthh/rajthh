@@ -1,6 +1,6 @@
 <div align="center">
 <p align="center">
-  <img src="https://in.pinterest.com/pin/2392606049371818/" width="600" />
+  <img src="<img width="736" height="736" alt="Image" src="https://github.com/user-attachments/assets/eb6ae1d7-1727-46c4-bd47-0c9f6cfcb57e" />" width="600" />
 </p>
 # 👋 Hi, I'm **RAJATH H M**
 
