@@ -23,7 +23,8 @@
 </div>
 
 ---
-
+<div align="center">
+<img width="640" height="495" alt="Image" src="https://github.com/user-attachments/assets/765c534a-22ca-4e05-ad87-83711eb2cea1"/>
 ## 🧑‍💻 About Me
 
 I'm an **Information Science & Engineering student at BMS College of Engineering** interested in building practical software and AI-driven solutions.
